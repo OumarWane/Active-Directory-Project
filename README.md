@@ -1,12 +1,11 @@
 <h2>Active Directory👨🏾‍💻 </h2>
 
+In this step-by-step tutorial, I’ll walk you through setting up Active Directory on Windows Server 2022. We'll create organizational units, add different groups, and set up new users. 
 
- 
-This project aimed to compare the effectiveness of four different vulnerability scans on a Windows 10 host using Nessus Essentials as the scanning tool. The process involved setting up a UTM or VMware environment, configuring Windows 10 host, and running both credentialed and non-credentialed scans. The scans were conducted to identify vulnerabilities, followed by remediation efforts which includes installing system updates and uninstalling deprecated software. The project's final phase compared the scan results to assess the impact of the remediation efforts.
 
 <h2>📺 Project Video</h2>
 
-[How to Configure and Use Nessus Essentials](https://youtu.be/3OgfwAJQeE4)
+[How To Setup Active Directory Using Windows Server 2022](https://youtu.be/3OgfwAJQeE4)
 
 
 <h2>🪜 Project Steps</h2>
