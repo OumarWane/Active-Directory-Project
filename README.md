@@ -6,7 +6,7 @@ This project aimed to compare the effectiveness of four different vulnerability 
 
 <h2>📺 Project Video</h2>
 
-[How to Configure and Use Nessus Essentials](https://youtu.be/TypWpI8i4as?si=HdqrWC741xhqdhQ7)
+[How to Configure and Use Nessus Essentials](https://youtu.be/3OgfwAJQeE4)
 
 
 <h2>🪜 Project Steps</h2>
