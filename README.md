@@ -12,5 +12,5 @@ I'll guide you through how to create organizational units for various department
 
 <h2>🪜 Project Steps</h2>
 
-[Active Directory Project Steps.pdf](https://github.com/OumarWane/Active-Directory-Project/blob/main/New%20Active%20Directory%20Project%20Steps.pdf)
+[Active Directory Project Steps](https://github.com/OumarWane/Active-Directory-Project/blob/main/Active%20Directory%20Project%20Steps.pdf)
 
