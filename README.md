@@ -10,5 +10,5 @@ In this step-by-step tutorial, I’ll walk you through setting up Active Directo
 
 <h2>🪜 Project Steps</h2>
 
-[Step-By-Step: How to Configure and Use Nessus Essentials](https://github.com/OumarWane/Active-Directory-Project/blob/main/New%20Active%20Directory%20Project%20Steps.pdf)
+[Active Directory Project Steps.pdf](https://github.com/OumarWane/Active-Directory-Project/blob/main/New%20Active%20Directory%20Project%20Steps.pdf)
 
