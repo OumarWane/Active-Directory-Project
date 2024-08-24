@@ -1,6 +1,8 @@
 <h2>Active Directory👨🏾‍💻 </h2>
 
-In this step-by-step tutorial, I’ll walk you through setting up Active Directory on Windows Server 2022. We'll create organizational units, add different groups, and set up new users. 
+Welcome to my detailed guide on setting up Active Directory on a Windows Server 2022. In this project, I take you through each step, starting with downloading and installing VirtualBox or VMWare, followed by setting up Windows Server 2022. I'll show you how we'll be configuring a new forest, and setting up a domain. 
+
+I'll guide you through how to create organizational units for various departments, add groups, and create new users. These steps are essential for organizing and managing resources within your Active Directory environment. This guide is ideal for anyone looking to gain hands-on experience with Active Directory in a virtualized environment.
 
 
 <h2>📺 Project Video</h2>
